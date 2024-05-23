@@ -262,6 +262,7 @@ body::-webkit-scrollbar-thumb {
     grid-template-columns: repeat(3, 1fr);
     padding: 20px 77px;
     background: #303030;
+    gap: 20px;
 }
 .footer-logo{
     display: flex;
